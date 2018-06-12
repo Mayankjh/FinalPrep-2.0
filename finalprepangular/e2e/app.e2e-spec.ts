@@ -1,10 +1,10 @@
-import { FinalprepPage } from './app.po';
+import { FinalPrepAngularPage } from './app.po';
 
-describe('finalprep App', () => {
-  let page: FinalprepPage;
+describe('final-prep-angular App', () => {
+  let page: FinalPrepAngularPage;
 
   beforeEach(() => {
-    page = new FinalprepPage();
+    page = new FinalPrepAngularPage();
   });
 
   it('should display welcome message', () => {
